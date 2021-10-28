@@ -161,7 +161,7 @@ function Gameover(){
     },
     function (isConfirm){
       if (isConfirm){
-        location.reload
+        location.reload()
 
       }
     }
